@@ -1,0 +1,3 @@
+[submodule "fetch-types"]
+	path = fetch-types
+	url = git@github.com:jensarps/fetch-types.git
