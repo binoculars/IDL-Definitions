@@ -1,3 +1,6 @@
 [submodule "fetch-types"]
 	path = fetch-types
 	url = git@github.com:jensarps/fetch-types.git
+[submodule "indexeddb-types"]
+	path = indexeddb-types
+	url = git@github.com:jensarps/indexeddb-types.git
